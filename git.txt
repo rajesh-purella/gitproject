@@ -1,0 +1,4 @@
+this all about git hub
+git is a verson control system.it used for two reasons
+saving
+collabartion
